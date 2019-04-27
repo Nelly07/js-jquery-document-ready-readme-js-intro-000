@@ -1,4 +1,4 @@
-<script src="js/script.js"></script>
+src="js/script.js"
 $(document).ready(function(){
-
+  console.log("ready");
 }); 
